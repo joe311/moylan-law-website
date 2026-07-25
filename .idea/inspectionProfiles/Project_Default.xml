@@ -1,0 +1,56 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <list>
+          <option value="anytree" />
+          <option value="app-model" />
+          <option value="appdirs" />
+          <option value="atomicwrites" />
+          <option value="brainglobe-atlasapi" />
+          <option value="brainglobe_space" />
+          <option value="build" />
+          <option value="cachey" />
+          <option value="docstring_parser" />
+          <option value="edt" />
+          <option value="flexcache" />
+          <option value="flexparser" />
+          <option value="freetype-py" />
+          <option value="hsluv" />
+          <option value="in-n-out" />
+          <option value="magicgui" />
+          <option value="meshio" />
+          <option value="napari" />
+          <option value="napari-console" />
+          <option value="napari-label-interpolator" />
+          <option value="napari-plugin-engine" />
+          <option value="napari-svg" />
+          <option value="npe2" />
+          <option value="nptyping" />
+          <option value="Pint" />
+          <option value="pooch" />
+          <option value="protobuf" />
+          <option value="psygnal" />
+          <option value="pyasn1-modules" />
+          <option value="pyconify" />
+          <option value="pydantic-compat" />
+          <option value="pyls-spyder" />
+          <option value="pynrrd" />
+          <option value="PyOpenGL" />
+          <option value="pyproject_hooks" />
+          <option value="PyQt5" />
+          <option value="PyQtWebEngine" />
+          <option value="shellingham" />
+          <option value="superqt" />
+          <option value="tomli_w" />
+          <option value="treelib" />
+          <option value="trimesh" />
+          <option value="typer" />
+          <option value="vispy" />
+          <option value="wheel" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
